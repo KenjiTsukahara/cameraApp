@@ -7,17 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		600BC4EA1CED6F1A00581F5F /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BC4E91CED6F1A00581F5F /* ViewController2.swift */; };
-		600BC4EC1CED711200581F5F /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BC4EB1CED711200581F5F /* ViewController3.swift */; };
-		600BC4EE1CED79B500581F5F /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BC4ED1CED79B500581F5F /* ViewController4.swift */; };
-		600BC4F01CED7A5D00581F5F /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BC4EF1CED7A5D00581F5F /* ViewController5.swift */; };
-		600BC4F21CED7A9E00581F5F /* ViewController6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BC4F11CED7A9E00581F5F /* ViewController6.swift */; };
-		600BC4F41CED7B0600581F5F /* ViewController7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BC4F31CED7B0600581F5F /* ViewController7.swift */; };
-		600BC4F61CED7B4A00581F5F /* ViewController8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BC4F51CED7B4A00581F5F /* ViewController8.swift */; };
-		600BC4F81CED7B7A00581F5F /* ViewController9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BC4F71CED7B7A00581F5F /* ViewController9.swift */; };
-		600BC4FA1CED7BF300581F5F /* ViewController10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BC4F91CED7BF300581F5F /* ViewController10.swift */; };
+		600BC4EA1CED6F1A00581F5F /* itemInfoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BC4E91CED6F1A00581F5F /* itemInfoController.swift */; };
+		600BC4EC1CED711200581F5F /* introVideoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BC4EB1CED711200581F5F /* introVideoController.swift */; };
+		600BC4EE1CED79B500581F5F /* PointOneController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BC4ED1CED79B500581F5F /* PointOneController.swift */; };
+		600BC4F01CED7A5D00581F5F /* PointOneVideoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BC4EF1CED7A5D00581F5F /* PointOneVideoController.swift */; };
+		600BC4F21CED7A9E00581F5F /* PointTwoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BC4F11CED7A9E00581F5F /* PointTwoController.swift */; };
+		600BC4F41CED7B0600581F5F /* PointTwoVideoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BC4F31CED7B0600581F5F /* PointTwoVideoController.swift */; };
+		600BC4F61CED7B4A00581F5F /* PointThreeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BC4F51CED7B4A00581F5F /* PointThreeController.swift */; };
+		600BC4F81CED7B7A00581F5F /* PointThreeVideoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BC4F71CED7B7A00581F5F /* PointThreeVideoController.swift */; };
+		600BC4FA1CED7BF300581F5F /* SummalyController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BC4F91CED7BF300581F5F /* SummalyController.swift */; };
 		6052B4F71CE3289F007C504D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6052B4F61CE3289F007C504D /* AppDelegate.swift */; };
-		6052B4F91CE3289F007C504D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6052B4F81CE3289F007C504D /* ViewController.swift */; };
+		6052B4F91CE3289F007C504D /* firstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6052B4F81CE3289F007C504D /* firstViewController.swift */; };
 		6052B4FC1CE3289F007C504D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6052B4FA1CE3289F007C504D /* Main.storyboard */; };
 		6052B4FF1CE3289F007C504D /* cameraApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6052B4FD1CE3289F007C504D /* cameraApp.xcdatamodeld */; };
 		6052B5011CE3289F007C504D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6052B5001CE3289F007C504D /* Assets.xcassets */; };
@@ -45,18 +45,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		600BC4E91CED6F1A00581F5F /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
-		600BC4EB1CED711200581F5F /* ViewController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
-		600BC4ED1CED79B500581F5F /* ViewController4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
-		600BC4EF1CED7A5D00581F5F /* ViewController5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController5.swift; sourceTree = "<group>"; };
-		600BC4F11CED7A9E00581F5F /* ViewController6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController6.swift; sourceTree = "<group>"; };
-		600BC4F31CED7B0600581F5F /* ViewController7.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController7.swift; sourceTree = "<group>"; };
-		600BC4F51CED7B4A00581F5F /* ViewController8.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController8.swift; sourceTree = "<group>"; };
-		600BC4F71CED7B7A00581F5F /* ViewController9.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController9.swift; sourceTree = "<group>"; };
-		600BC4F91CED7BF300581F5F /* ViewController10.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController10.swift; sourceTree = "<group>"; };
+		600BC4E91CED6F1A00581F5F /* itemInfoController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = itemInfoController.swift; sourceTree = "<group>"; };
+		600BC4EB1CED711200581F5F /* introVideoController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = introVideoController.swift; sourceTree = "<group>"; };
+		600BC4ED1CED79B500581F5F /* PointOneController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PointOneController.swift; sourceTree = "<group>"; };
+		600BC4EF1CED7A5D00581F5F /* PointOneVideoController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PointOneVideoController.swift; sourceTree = "<group>"; };
+		600BC4F11CED7A9E00581F5F /* PointTwoController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PointTwoController.swift; sourceTree = "<group>"; };
+		600BC4F31CED7B0600581F5F /* PointTwoVideoController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PointTwoVideoController.swift; sourceTree = "<group>"; };
+		600BC4F51CED7B4A00581F5F /* PointThreeController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PointThreeController.swift; sourceTree = "<group>"; };
+		600BC4F71CED7B7A00581F5F /* PointThreeVideoController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PointThreeVideoController.swift; sourceTree = "<group>"; };
+		600BC4F91CED7BF300581F5F /* SummalyController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SummalyController.swift; sourceTree = "<group>"; };
 		6052B4F31CE3289F007C504D /* cameraApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cameraApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6052B4F61CE3289F007C504D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		6052B4F81CE3289F007C504D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		6052B4F81CE3289F007C504D /* firstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstViewController.swift; sourceTree = "<group>"; };
 		6052B4FB1CE3289F007C504D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6052B4FE1CE3289F007C504D /* cameraApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = cameraApp.xcdatamodel; sourceTree = "<group>"; };
 		6052B5001CE3289F007C504D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -120,17 +120,17 @@
 			isa = PBXGroup;
 			children = (
 				6052B4F61CE3289F007C504D /* AppDelegate.swift */,
-				600BC4EB1CED711200581F5F /* ViewController3.swift */,
-				6052B4F81CE3289F007C504D /* ViewController.swift */,
-				600BC4ED1CED79B500581F5F /* ViewController4.swift */,
-				600BC4EF1CED7A5D00581F5F /* ViewController5.swift */,
-				600BC4F11CED7A9E00581F5F /* ViewController6.swift */,
-				600BC4F31CED7B0600581F5F /* ViewController7.swift */,
-				600BC4F51CED7B4A00581F5F /* ViewController8.swift */,
-				600BC4F71CED7B7A00581F5F /* ViewController9.swift */,
-				600BC4F91CED7BF300581F5F /* ViewController10.swift */,
+				600BC4EB1CED711200581F5F /* introVideoController.swift */,
+				6052B4F81CE3289F007C504D /* firstViewController.swift */,
+				600BC4ED1CED79B500581F5F /* PointOneController.swift */,
+				600BC4EF1CED7A5D00581F5F /* PointOneVideoController.swift */,
+				600BC4F11CED7A9E00581F5F /* PointTwoController.swift */,
+				600BC4F31CED7B0600581F5F /* PointTwoVideoController.swift */,
+				600BC4F51CED7B4A00581F5F /* PointThreeController.swift */,
+				600BC4F71CED7B7A00581F5F /* PointThreeVideoController.swift */,
+				600BC4F91CED7BF300581F5F /* SummalyController.swift */,
 				6052B4FA1CE3289F007C504D /* Main.storyboard */,
-				600BC4E91CED6F1A00581F5F /* ViewController2.swift */,
+				600BC4E91CED6F1A00581F5F /* itemInfoController.swift */,
 				6052B5001CE3289F007C504D /* Assets.xcassets */,
 				6052B5021CE3289F007C504D /* LaunchScreen.storyboard */,
 				6052B5271CE3296C007C504D /* images */,
@@ -293,18 +293,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				600BC4EC1CED711200581F5F /* ViewController3.swift in Sources */,
-				600BC4EE1CED79B500581F5F /* ViewController4.swift in Sources */,
-				6052B4F91CE3289F007C504D /* ViewController.swift in Sources */,
-				600BC4EA1CED6F1A00581F5F /* ViewController2.swift in Sources */,
+				600BC4EC1CED711200581F5F /* introVideoController.swift in Sources */,
+				600BC4EE1CED79B500581F5F /* PointOneController.swift in Sources */,
+				6052B4F91CE3289F007C504D /* firstViewController.swift in Sources */,
+				600BC4EA1CED6F1A00581F5F /* itemInfoController.swift in Sources */,
 				6052B4FF1CE3289F007C504D /* cameraApp.xcdatamodeld in Sources */,
-				600BC4F81CED7B7A00581F5F /* ViewController9.swift in Sources */,
-				600BC4F21CED7A9E00581F5F /* ViewController6.swift in Sources */,
-				600BC4F41CED7B0600581F5F /* ViewController7.swift in Sources */,
-				600BC4F61CED7B4A00581F5F /* ViewController8.swift in Sources */,
-				600BC4FA1CED7BF300581F5F /* ViewController10.swift in Sources */,
+				600BC4F81CED7B7A00581F5F /* PointThreeVideoController.swift in Sources */,
+				600BC4F21CED7A9E00581F5F /* PointTwoController.swift in Sources */,
+				600BC4F41CED7B0600581F5F /* PointTwoVideoController.swift in Sources */,
+				600BC4F61CED7B4A00581F5F /* PointThreeController.swift in Sources */,
+				600BC4FA1CED7BF300581F5F /* SummalyController.swift in Sources */,
 				6052B4F71CE3289F007C504D /* AppDelegate.swift in Sources */,
-				600BC4F01CED7A5D00581F5F /* ViewController5.swift in Sources */,
+				600BC4F01CED7A5D00581F5F /* PointOneVideoController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
