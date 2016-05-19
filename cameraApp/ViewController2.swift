@@ -8,7 +8,17 @@
 
 import UIKit
 
-class ViewController2: UIViewController {
+class ViewController2: UIViewController,UITextFieldDelegate {
+    
+    @IBOutlet weak var textfield1: UITextField!
+    @IBOutlet weak var textfield2: UITextField!
+    
+    func textFieldShouldReturn(textField: UITextField) -> Bool{
+        // キーボードを閉じる
+        textField.resignFirstResponder()
+        
+        return true
+    }
 
     @IBAction func backbtn(sender: AnyObject) {
         

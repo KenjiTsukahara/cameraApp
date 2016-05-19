@@ -114,6 +114,10 @@
                         <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" id="mfV-m6-Nf2"/>
+                    <connections>
+                        <outlet property="textfield1" destination="g7b-nF-0CE" id="xTd-qh-1I8"/>
+                        <outlet property="textfield2" destination="2Ga-dd-75X" id="KUe-U8-yKc"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="yL7-3X-jnj" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -253,6 +257,9 @@
                         <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" id="nt8-ya-7eU"/>
+                    <connections>
+                        <outlet property="textfield" destination="rcO-pG-2mX" id="0KN-0S-FH2"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="8LD-kc-LYi" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -392,6 +399,9 @@
                         <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" id="ROp-cO-sbR"/>
+                    <connections>
+                        <outlet property="textfield" destination="Iux-5J-9dN" id="oip-ix-bRk"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dbG-Dk-EcI" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -531,6 +541,9 @@
                         <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" id="ggL-QH-QIb"/>
+                    <connections>
+                        <outlet property="textfield" destination="VQD-fP-1yy" id="hXi-Fy-575"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Wbo-9X-22F" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>

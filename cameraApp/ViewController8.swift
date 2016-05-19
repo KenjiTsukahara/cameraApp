@@ -8,8 +8,16 @@
 
 import UIKit
 
-class ViewController8: UIViewController {
+class ViewController8: UIViewController,
+UITextFieldDelegate {
 
+    @IBOutlet weak var textfield: UITextField!
+    func textFieldShouldReturn(textField: UITextField) -> Bool{
+        // キーボードを閉じる
+        textField.resignFirstResponder()
+        
+        return true
+    }
     @IBAction func backbtn(sender: AnyObject) {
         
         self.navigationController?.popViewControllerAnimated(true)
